@@ -1,5 +1,0 @@
-com\p2p\server\ClientHandler.class
-com\p2p\peer\PeerHandler.class
-com\p2p\common\PeerInfo.class
-com\p2p\server\Server.class
-com\p2p\peer\Peer.class
